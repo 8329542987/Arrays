@@ -72,7 +72,7 @@ public class ArrayinputSize
        		return min;
     	}
 
-        // Function to sort the array in ascending order (using bubble sort)
+        // Function to sort the array in ascending order
 	public static int[] sortAscending(int[] arr) 
 	{
         	for (int i = 0; i < arr.length - 1; i++) 
